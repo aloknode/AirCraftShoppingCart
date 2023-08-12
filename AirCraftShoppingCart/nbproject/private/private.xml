@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/_layouts/adminsfooter.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/pages.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/routes/admin_pages.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/public/js/main.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/edit_category.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/models/categorydetails.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/index.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/_layouts/adminsheader.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/config/database.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/add_category.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/routes/pages.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/models/product.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/categories.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/public/css/adminstyle.css</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/_layouts/footer.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/package.json</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/routes/admin_categories.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/_layouts/header.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/app.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/models/page.js</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/products.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/edit_page.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/add_page.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/add_product.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/admin/edit_product.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/views/messages.ejs</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/public/css/style.css</file>
+            <file>file:/C:/Users/user/OneDrive/Documents/NetBeansProjects/AirCraftShoppingCart/routes/admin_products.js</file>
+        </group>
+    </open-files>
+</project-private>
